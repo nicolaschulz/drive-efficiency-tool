@@ -1,8 +1,11 @@
-pandas
+notebook
+﻿pandas
 numpy
+io
 matplotlib
 scipy
 lmfit
 ipywidgets
+IPython
 openpyxl
 voila
