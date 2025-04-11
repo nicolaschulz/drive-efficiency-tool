@@ -10,14 +10,15 @@ This tool calculates the energy consumption and annual energy cost of a drive sy
 
 ## ▶️ Launch the tool online
 
-Right-click on the link below to open the tool in a new browser tab.  
+Right-click on the [![Binder](https://mybinder.org/badge_logo.svg)] links below to open the tool in a new browser tab.  
+
 **Note:** The tool is based on a jupyter Notebook and is opened via [MyBinder](https://mybinder.org/). Please be patient; the loading time can be approx. 1 minute.
 
 ### Calculation tool based on power and time data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolaschulz/drive-efficiency-tool/main?urlpath=voila/render/energy_calculator1.ipynb)
 
-### Calculation tool baccording to EN 61800-9-1
+### Calculation tool according to EN 61800-9-1 (shaft speed and torque)
 
 ---
 
