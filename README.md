@@ -10,7 +10,7 @@ Dieses Tool berechnet den Energieverbrauch eines Antriebssystems basierend auf e
 
 ## ▶️ Starte das Tool online
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolaschulz/drive-efficiency-tool/main?urlpath=voila/render/tool_notebook2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolaschulz/drive-efficiency-tool/main?urlpath=voila/render/energy_calculator1.ipynb)
 
 ---
 
