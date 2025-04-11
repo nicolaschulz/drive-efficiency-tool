@@ -12,7 +12,7 @@ This tool calculates the energy consumption and annual energy cost of a drive sy
 
 Right-click on the ![Binder](https://mybinder.org/badge_logo.svg) links below to open the tool in a new browser tab.  
 
-**Note:** The tool is based on a jupyter Notebook and is opened via [MyBinder](https://mybinder.org/). Please be patient; the loading time can be approx. 1 minute.
+**Note:** The tool is based on a jupyter Notebook and is opened via [MyBinder](https://mybinder.org/). Please be patient; the loading time can be approx. 1-2 minutes.
 
 ### Calculation tool based on power and time data
 
