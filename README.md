@@ -20,6 +20,8 @@ Right-click on the ![Binder](https://mybinder.org/badge_logo.svg) links below to
 
 ### Calculation tool according to EN 61800-9-1 (shaft speed and torque)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolaschulz/drive-efficiency-tool/main?urlpath=voila/render/calculator_EN61800.ipynb)
+
 ---
 
 ## 📂 Example files
